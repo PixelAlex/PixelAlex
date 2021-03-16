@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/PixelAlex/PixelAlex/master/wave.gif" width="35px"> Hi there! 
 
-My name is Aleksei and I'm a backend software engineer on Java. I'm from Russia, living in Kursk.
+My name is Aleksei and I'm a backend software engineer on Java. I also like to practice Front-End development. I'm from Russia, living in Kursk.
 
 
 ### 📈 GitHub Stats
