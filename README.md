@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/PixelAlex/PixelAlex/master/wave.gif" width="35px"> Hi there! 
 
-My name is Aleksei and I'm from Russia, Kursk. My favorite programming languages is Java, C++ and Python
+My name is Aleksei and I'm from Russia, Kursk. My favorite programming languages is Java, C++ and Dart
 
 ### 📈 GitHub Stats
 
